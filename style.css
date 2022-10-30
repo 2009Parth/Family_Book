@@ -1,0 +1,25 @@
+body
+{
+    text-align: center;
+}
+h1
+{
+    text-decoration: underline;
+}
+img
+{
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    border-style: solid;
+}
+button
+{
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
